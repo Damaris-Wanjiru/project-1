@@ -1,0 +1,32 @@
+.sec1 > button {
+    border-radius: 2rem;
+}
+.sec1 {
+    margin-top: 10rem;
+    margin-left: 20rem;
+    justify-content: center;
+    
+}
+
+.sec1> img {
+    width: 15rem;
+    height: 25rem;   
+    float: right;
+    margin-right: 30rem;    
+    margin-bottom: 100rem;
+    border-radius: 2rem;
+    margin-left: 40rem;   
+}
+
+.skills {
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.about {
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.edu {
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
